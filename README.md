@@ -1,4 +1,4 @@
-# Predict Car Speed from Dashcam video
+# Predict Car Speed from Dashcam video (Odometry)
 
 ## Goal
 
